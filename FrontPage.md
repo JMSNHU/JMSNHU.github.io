@@ -1,0 +1,7 @@
+## Who Am I
+
+My name is Jason Magri, and I'm currently finishing up my degree in Computer Science at SNHU. Overall, I've been working on becoming a computer scientist for a long time now, ever since I was in middle school. Back then, I started working on simple programs with helper programs, such as Ren.py. I started working on it a lot more seriously once I began working on my degree. I started the journey towards my degree at NHTI, pursuing an Associates in Animation and Graphic Game Programming. After completing my degree there, I got a job in my field. In addition to that, I decided to continue towards my Bachelor's in computer Science. As I was working full time, I determined that the best way to complete my degree was through SNHU. Thus, I began my journey towards my Bachelor's in computer science. Over the course of my classes at SNHU, I learned many things. I learned a lot about how to do testing, as this wasn't a primary topic at NHTI. I learned more about working with databases, such as MongoDB. I also learned how to work with OpenGL, in order to create visual objects from scratch. With that, please review my projects.
+
+## Informal Code Review
+
+As part of my work in enhancing my projects for this portfolio, I did an informal code review. Although I have done code reviews before, I hadn't done one on my own code, so it was an interesting experience. Here is the result.
