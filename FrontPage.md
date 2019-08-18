@@ -10,9 +10,9 @@ As part of my work in enhancing my projects for this portfolio, I did an informa
 
 ## Software Design and Engineering project: Medical testing software
 
-This project wasn't enterily written by me. Instead, it was a project that I had created tests for. I felt that this was a good project for this goal, as it shows that I can take an existing project, and determine how it works. By writing a set of tests for this project, it shows that I can figure out what is important to the project, and test those specific features. Using these skills, I can search exisiting code for issues, without making changes. This is an important skil when working at a company, as I will often not have the ability to change the code on a whim. [Here](_updated_Milestone2.zip) is the file.
+This project wasn't entirely written by me. Instead, it was a project that I had created tests for. I felt that this was a good project for this goal, as it shows that I can take an existing project and determine how it works. By writing a set of tests for this project, it shows that I can figure out what is important to the project and test those specific features. Using these skills, I can search existing code for issues, without making changes. This is an important skill when working at a company, as I will often not have the ability to change the code on a whim. [Here](_updated_Milestone2.zip) is the file.
 
-## Algorithm and Data Structures project: A Sppon
+## Algorithm and Data Structures project: A Spoon
 
 This project creates a spoon in 3D space using OpenGL. It does this by utilizing C++ and a file containing a list of indices. After it pulls the list of indices from the file, it inserts them into a List, which it can reference during runtime. Then, utilizing OpenGL, it displays those on the screen. In addition to the spoon shape, it also uses a texture file to make the spoon look more metallic. Finally, it uses algorithms in order to make the spoon appear to be lit. [Here](Final.zip) is the files.
 
