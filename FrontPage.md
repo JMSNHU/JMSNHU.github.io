@@ -10,7 +10,7 @@ As part of my work in enhancing my projects for this portfolio, I did an informa
 
 ## Software Design and Engineering project: Medical testing software
 
-This project wasn't enterily written by me. Instead, it was a project that I had created tests for. I felt that this was a good project for this goal, as it shows that I can take an existing project, and determine how it works. By writing a set of tests for this project, it shows that I can figure out what is important to the project, and test those specific features. Using these skills, I can search exisiting code for issues, without making changes. This is an important skil when working at a company, as I will often not have the ability to change the code on a whim. [Here](_updated_Milestone 2.zip) is the file.
+This project wasn't enterily written by me. Instead, it was a project that I had created tests for. I felt that this was a good project for this goal, as it shows that I can take an existing project, and determine how it works. By writing a set of tests for this project, it shows that I can figure out what is important to the project, and test those specific features. Using these skills, I can search exisiting code for issues, without making changes. This is an important skil when working at a company, as I will often not have the ability to change the code on a whim. [Here](_updated_Milestone2.zip) is the file.
 
 ## Algorithm and Data Structures project: A Sppon
 
@@ -18,4 +18,4 @@ This project creates a spoon in 3D space using OpenGL. It does this by utilizing
 
 ## Database: Python website
 
-This project is a website with a python frontend, utilizing Bottle. For the backend, it uses MongoDB to store the data. Through the python code, I was able to write a console interface that could pull a variety of stock data from the database. This data included simple things, such as pulling a single item, to more complicated things, such as an aggregated list of the top five industries in the database. [Here](Milestone 4.zip) is the result.
+This project is a website with a python frontend, utilizing Bottle. For the backend, it uses MongoDB to store the data. Through the python code, I was able to write a console interface that could pull a variety of stock data from the database. This data included simple things, such as pulling a single item, to more complicated things, such as an aggregated list of the top five industries in the database. [Here](Milestone4.zip) is the result.
